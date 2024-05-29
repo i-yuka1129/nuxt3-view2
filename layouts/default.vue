@@ -15,4 +15,10 @@
     color: white;
     text-align: center;
   }
+
+  html {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
 </style>
